@@ -1,0 +1,2 @@
+2013-09-28 10:47:42,838 [Worker-6] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: ibiblio.org|http://mirrors.ibiblio.org/pub/mirrors/maven2
+2013-09-28 10:47:44,070 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
