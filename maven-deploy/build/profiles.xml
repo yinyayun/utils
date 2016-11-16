@@ -1,0 +1,14 @@
+<profilesXml xmlns="http://maven.apache.org/PROFILES/1.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/PROFILES/1.0.0 http://maven.apache.org/xsd/profiles-1.0.0.xsd">
+	<profiles>
+		<profile>
+			<id>server</id>
+			<properties>
+			<Xmn>200m</Xmn>
+			<Xms>500m</Xms>
+			<Xmx>1000m</Xmx>
+        </properties>
+		</profile>
+	</profiles>
+</profilesXml>
