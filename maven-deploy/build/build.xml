@@ -17,7 +17,7 @@
         <repository>
             <id>Snapshots</id>
             <name>Internal Snapshots</name>
-            <url>http://maven.mic.com/nexus/content/groups/public</url>
+            <url>http://xxxx/nexus/content/groups/public</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
@@ -33,7 +33,7 @@
     </dependencies>
     <build>
         <plugins>
-            <!--清除老的ffs_manager-->
+            
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-antrun-plugin</artifactId>
